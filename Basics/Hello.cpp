@@ -1,5 +1,4 @@
 #include <iostream>
-#include <ostream>
 #include <string>
 int main() {
     std::cout << "Hello World" << '\n'; // can also use std::endl
